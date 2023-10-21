@@ -1,0 +1,5 @@
+pyodbc===4.0.34
+streamlit
+python-dotenv
+openai
+promptflow
